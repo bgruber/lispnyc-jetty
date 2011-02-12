@@ -1,0 +1,13 @@
+      title: Google Meeting RSVP
+   uri-path: /meeting/rsvp
+    section: home
+     author: H Goodman
+       tags: meeting, RSVP
+description: Google Meeting RSVP
+
+
+<form method="post" action="/meeting/rsvp"> 
+<input type="hidden" name="subject" value="meeting RSVP 2011-02-08">
+<p>Your first and last name: <input type="text" name="name" width="60"><br>
+<input type="submit" value=" sign up "></p>
+</form>
