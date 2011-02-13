@@ -1,5 +1,5 @@
 
-<img src="https://github.com/heow/lispnyc-jetty/blob/master/homebase-static/images/theme-lispnyc.png" alt="lispnyc logo" title="LispNYC's webserver" />
+<img src="http://lispnyc.org/static/images/theme-lispnyc.png" alt="lispnyc logo" title="LispNYC's webserver" />
 
 # LispNYC's Webapplication Server
 
