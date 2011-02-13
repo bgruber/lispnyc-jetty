@@ -1,5 +1,5 @@
 
-<img src="http://lispnyc.org/static/images/theme-barsky-2.png" alt="lispnyc logo" title="LispNYC's webserver" />
+<img src="http://lispnyc.org/static/images/theme-lispnyc.png" alt="lispnyc logo" title="LispNYC's webserver" />
 
 # LispNYC's Webapplication Server
 
@@ -9,7 +9,7 @@ webapp and also inclues the Pebble blog webapp.
 ## Requirements
 
   * Java
-  * build [LispNYC Homebase Webapp](https://github.com/heow/lispnyc-homebase)
+  * build the [LispNYC Homebase Webapp](https://github.com/heow/lispnyc-homebase)
 
 ## Running
 
