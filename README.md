@@ -28,7 +28,7 @@ The [Jetty Webserver](http://jetty.codehaus.org/jetty/contains) executes two web
  
 Because the initial homepage of LispNYC is dynamic, the Homebase Webapp is the *main* application and thus runs as the main context.  This means that by default it intercepts all requests including ones for things like CSS, HTML and images ...which is not what we want.  
 
-There are several techniques to handle this, the one we chose is to set up a seperate context for static files and serve it up there, which is a typical scaling technique, by using Apache (or something else) for static files.
+There are several techniques to handle this, the one we chose is to set up a seperate context for static files and serve it up there.  It's a typical scaling technique: using Apache (or something) for static files.
 
     uri path         handled by
     --------         ----------
