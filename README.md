@@ -10,7 +10,7 @@ webapp.
 ## Requirements
 
   * Java
-  * build the [LispNYC Homebase Webapp](https://github.com/heow/lispnyc-homebase)
+  * deploy the [LispNYC Homebase Webapp](https://github.com/heow/lispnyc-homebase)
 
 ## Running
 
