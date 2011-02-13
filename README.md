@@ -3,8 +3,9 @@
 
 # LispNYC's Webapplication Server
 
-This is the jetty webserver configured for the use with the lispnyc-homebase 
-webapp, also included is the Pebble blog webapp.
+The highly acclaimed lightweight Jetty webserver is configured for the
+use with our LispNYC Homebase Webapp, also included is the Pebble blog
+webapp.
 
 ## Requirements
 
