@@ -1,0 +1,25 @@
+      title: Summer of Code 2011
+   uri-path: soc
+    section: soc
+     author: H Goodman
+       tags: SOC
+description: Mentoring organization for Google's Summer of Code
+
+We're gearing up for Google's 2011 Summer of Code, now would be a great time to <a href="/soc/idea">send us an idea</a> for a proposal.
+
+For proposal inspiration, see some ideas from previous years:
+
+* [2009 ideas](/soc/2009)
+* [2008 ideas](/soc/2008)
+* [2007 ideas](/soc/2007)
+* [2006 ideas](/soc/2006)
+* [2005 ideas](/soc/2005)
+
+We're available at #summeroflisp at irc.freenode.net (9-5 EST) if you'd like to discuss in realtime.
+
+<p><span class="header">( ideas )</span></p>
+
+* R6 Gambit - Complete implementation of R6RS for Gambit Scheme
+* [Optimize Clojure on Android](http://www.deepbluelambda.org/programming/clojure/creating-android-applications-with-clojure) 
+* [CL-GPU support for Nvidia](https://github.com/angavrilov/cl-gpu )
+* [Improvements to the Acheron CL to JS Compiler](http://sourceforge.net/projects/acheron/develop) - details to follow
