@@ -431,8 +431,8 @@ put.</p>
 
 <ul>
 <li><a href="http://savannah.nongnu.org/projects/axiom">Axiom</a>
-<li><a href="http://page.axiom-developer.org/">Axiom Developer</a>
-<li><a href="http://page.axiom-developer.org/zope/mathaction/ReduceWiki">Axiom W
+<li><a href="http://axiom-developer.org/">Axiom Developer</a>
+<li><a href="http://axiom-developer.org/zope/mathaction/ReduceWiki">Axiom W
 iki</a>
 <li>video available shortly
 </ul>
